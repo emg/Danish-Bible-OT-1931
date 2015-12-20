@@ -34,7 +34,7 @@ cleaning it up.  Ulrik then OSIS-ified it, and put it on Github in
 - Ulrik Sandborg-Petersen did some reformatting and cleanup.
 
 
-Send corrections and comments to ulrikp-at-emergence-dot-dk.
+Send corrections and comments to ulrikp-at-scripturesys-dot-com
 
 Or send Ulrik a pull request via Github.
 
@@ -56,4 +56,4 @@ Enjoy!
 
 Ulrik Sandborg-Petersen
 
-Last update: 2015-03-17
+Last update: 2015-12-20
