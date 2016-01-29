@@ -8,10 +8,10 @@ MQL = /usr/bin/mql
 CLEANFILES = *~ *.pyc *.pyo \
              MQL/OT1931.mql \
              EmdrosDB/ot1931.sqlite3 \
-             MQL/*~ BibleWorks/*~ OSIS/*~
+             MQL/*~ BibleWorks/*~ OSIS/*~ USFM/*~
 
 
-all: MQL/OT1931.mql BibleWorks/DA_OT1931_bibleworks.txt
+all: MQL/OT1931.mql BibleWorks/DA_OT1931_bibleworks.txt USFM/39MAL.SFM
 
 clean:
 	rm -f $(CLEANFILES)
@@ -53,3 +53,8 @@ EmdrosDB/ot1931.sqlite3: MQL/OT1931.mql MQL/osis_schema.mql
 	echo "VACUUM DATABASE ANALYZE GO" | $(MQL) -b 3 -d $@
 
 .PHONY: db3 mql bbw
+
+
+# USFM
+USFM/39MAL.SFM: OSIS/DA_OT1931.OSIS.xml osis2usfm.py
+	python osis2usfm.py OSIS/DA_OT1931.OSIS.xml
