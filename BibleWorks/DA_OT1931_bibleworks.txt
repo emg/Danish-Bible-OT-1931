@@ -34,9 +34,9 @@ Gen 2:2 Paa den syvende Dag fuldendte Gud det Værk, han havde udført, og han hvi
 Gen 2:3 og Gud velsignede den syvende Dag og helligede den, thi paa den hvilede han efter hele sit Værk, det, Gud havde skabt og udført.
 Gen 2:4 Det er Himmelens og Jordens Skabelseshistorie. Da Gud HERREN gjorde Jord og Himmel —
 Gen 2:5 dengang fandtes endnu ingen af Markens Buske paa Jorden, og endnu var ingen af Markens Urter spiret frem, thi Gud HERREN havde ikke ladet det regne paa Jorden, og der var ingen Mennesker til at dyrke Agerjorden,
-Gen 2:6 men en Taage vældede op at Jorden og vandede hele Agerjordens Flade —
+Gen 2:6 men en Taage vældede op af Jorden og vandede hele Agerjordens Flade —
 Gen 2:7 da dannede Gud HERREN Mennesket af Agerjordens Muld og blæste Livsaande i hans Næsebor, saa at Mennesket blev et levende Væsen.
-Gen 2:8 Derpaa plantede Gud HERREN en Have i Eden ude mod Øst, og dem satte han Mennesket, som han havde dannet;
+Gen 2:8 Derpaa plantede Gud HERREN en Have i Eden ude mod Øst, og deri satte han Mennesket, som han havde dannet;
 Gen 2:9 Og Gud HERREN lod af Agerjorden fremvokse alle Slags Træer, en Fryd at skue og gode til Føde, desuden Livets Træ, der stod midt i Haven, og Træet til Kundskab om godt og ondt.
 Gen 2:10 Der udsprang en Flod i Eden til at vande Haven, og udenfor delte den sig i fire Hovedstrømme.
 Gen 2:11 Den ene hedder Pisjon; den løber omkring Landet Havila, hvor der findes Guld
@@ -1806,7 +1806,7 @@ Exo 10:27 Da forhærdede HERREN Faraos Hjerte, saa han nægtede at lade dem rejse.
 Exo 10:28 Og Farao sagde til ham: »Gaa bort fra mig og vogt dig for at komme mig for Øje mere; thi den Dag du kommer mig for Øje, er du dødsens!«
 Exo 10:29 Da sagde Moses: »Du har sagt det, jeg skal ikke mere komme dig for Øje!«
 Exo 11:1 Derpaa sagde HERREN til Moses: »Een Plage endnu vil jeg lade komme over Farao og Ægypterne, og efter den skal han lade eder rejse herfra; ja, naar han lader eder rejse med alt, hvad I har, skal han endog drive eder herfra!
-Exo 11:2 Sig nu til Folket, at hver Mand skal bede sin Nabo, og hver Kvinde sin Naboerske om Sølv— og Guld-smykker!«
+Exo 11:2 Sig nu til Folket, at hver Mand skal bede sin Nabo, og hver Kvinde sin Naboerske om Sølv- og Guld-smykker!«
 Exo 11:3 Og HERREN stemte Ægypterne gunstigt imod Folket, og desuden var den Mand Moses højt anset i Ægypten baade hos Faraos Tjenere og hos Folket.
 Exo 11:4 Moses sagde: »Saa siger HERREN: Ved Midnatstid vil jeg drage igennem Ægypten,
 Exo 11:5 og saa skal alle førstefødte i Ægypten dø, lige fra den førstefødte hos Farao, der skal arve hans Trone, til den førstefødte hos Trælkvinden, der arbejder ved Haandkværnen, og alt det førstefødte af Kvæget.
@@ -4990,7 +4990,7 @@ Deu 3:13 men Resten af Gilead og hele Basan, Ogs Rige, gav jeg til Manasses halv
 Deu 3:14 Manasses Søn Ja'ir erobrede hele Landskabet Argob indtil Gesjuriternes og Ma'akatiternes Egne og kaldte dem Ja'irs Teltbyer efter sig selv, som de hedder endnu den Dag i Dag.
 Deu 3:15 Og Makir gav jeg Gilead;
 Deu 3:16 og Rubeniterne og Gaditerne gav jeg Landet fra Gilead til Arnonfloden med Dalens Midtlinie som Grænse og til Jabbokfloden, Ammoniternes Grænse,
-Deu 3:17 og Arabalavningen med Jordan som Grænse fra Kinneret til Araba— eller Salthavet ved Foden af Pisgas Skrænter mod Øst.
+Deu 3:17 og Arabalavningen med Jordan som Grænse fra Kinneret til Araba- eller Salthavet ved Foden af Pisgas Skrænter mod Øst.
 Deu 3:18 Dengang gav jeg eder følgende Paabud: »HERREN eders Gud har givet eder dette Land i Eje; men I skal, saa mange krigsdygtige Mænd I er, drage væbnede i Spidsen for eders Brødre Israeliterne —
 Deu 3:19 kun eders Kvinder, Børn og Kvæg (jeg ved, at I har meget Kvæg) skal blive tilbage i de Byer, jeg giver eder —
 Deu 3:20 indtil HERREN bringer eders Brødre til Hvile ligesom eder, og de ogsaa faar taget det Land i Besiddelse, som HERREN eders Gud vil give dem hinsides Jordan; saa kan enhver af eder vende tilbage til den Ejendom, jeg har givet eder!«
@@ -5907,7 +5907,7 @@ Jos 3:12 Vælg eder nu tolv Mænd af Israels Stammer, een Mand af hver Stamme.
 Jos 3:13 Og saa snart Præsterne, som bærer HERRENS, al Jordens Herres, Ark, sætter Foden i Jordans Vand, skal Jordans Vand standse, det Vand, som kommer ovenfra, og staa som en Vold.«
 Jos 3:14 Da Folket saa brød op fra deres Telte for at gaa over Jordan med Præsterne, som bar Arken, i Spidsen,
 Jos 3:15 og da de, som bar Arken, kom til Jordan, og Præsterne, som bar Arken, rørte ved Vandkanten med deres Fødder — Jordan gik overalt over sine Bredder i hele Høsttiden —
-Jos 3:16 standsede Vandet, som kom ovenfra, og stod som en Vold langt borte, oppe ved Byen Adam, som ligger ved Zaretan, medens det Vand, som flød ned mod Araba— eller Salthavet, løb helt bort; saaledes gik Folket over lige over for Jeriko.
+Jos 3:16 standsede Vandet, som kom ovenfra, og stod som en Vold langt borte, oppe ved Byen Adam, som ligger ved Zaretan, medens det Vand, som flød ned mod Araba- eller Salthavet, løb helt bort; saaledes gik Folket over lige over for Jeriko.
 Jos 3:17 Men Præsterne, som bar HERRENS Pagts Ark, blev staaende paa tør Bund midt i Jordan, medens hele Israel gik over paa tør Bund, indtil hele Folket havde tilendebragt Overgangen over Jordan.
 Jos 4:1 Da nu hele Folket havde tilendebragt Overgangen over Jordan, sagde HERREN til Josua:
 Jos 4:2 »Vælg eder tolv Mænd af Folket, een Mand af hver Stamme,
@@ -7793,7 +7793,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Sa 22:4 Han lod dem da tage Ophold hos Moabiternes Konge, og de boede hos ham, al den Tid David var i Klippeborgen.
 1Sa 22:5 Men Profeten Gad sagde til David: »Du skal ikke blive i Klippeborgen; bryd op og drag til Judas Land!« Saa drog David til Ja'ar-Heret.
 1Sa 22:6 Nu kom dette Saul for Øre, thi David og de Mænd, han havde hos sig, havde vakt Opmærksomhed. Saul sad engang i Gibea under Tamarisken paa Højen med sit Spyd i Haanden, omgivet af alle sine Folk.
-1Sa 22:7 Da sagde Saul til sine Folk, som stod hos ham: »Hør dog, I Benjaminiter! Vil Isajs Søn give eder alle sammen Marker og Vingaarde eller gøre eder alle til Tusind— og Hundredførere,
+1Sa 22:7 Da sagde Saul til sine Folk, som stod hos ham: »Hør dog, I Benjaminiter! Vil Isajs Søn give eder alle sammen Marker og Vingaarde eller gøre eder alle til Tusind- og Hundredførere,
 1Sa 22:8 siden I alle har sammensvoret eder imod mig, og ingen lod mig det vide, da min Søn sluttede Pagt med Isajs Søn? Ingen af eder havde Medfølelse med mig og lod mig vide, at min Søn havde faaet min Træl til at optræde som min Fjende, som han nu gør.«
 1Sa 22:9 Da tog Edomiten Doeg, der stod blandt Sauls Folk, Ordet og sagde: »Jeg saa, at Isajs Søn kom til Ahimelek, Ahitubs Søn, i Nob,
 1Sa 22:10 og han raadspurgte HERREN for ham og gav ham Rejsetæring og Filisteren Goliats Sværd!«
@@ -8218,7 +8218,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Sa 8:7 Og David tog de Guldskjolde, Hadad'ezers Folk havde baaret, og bragte dem til Jerusalem;
 2Sa 8:8 og fra Hadad'ezers Byer Teba og Berotaj bortførte Kong David Kobber i store Mængder.
 2Sa 8:9 Men da Kong To'i af Hamat hørte, at David havde slaaet hele Hadad'ezers Stridsmagt,
-2Sa 8:10 sendte han sin Søn Hadoram til Kong David for at hilse paa ham og lykønske ham til, at han havde kæmpet med Hadad'ezer og slaaet ham — Hadad'ezer havde nemlig ligget i Krig med To'i — og han medbragte Sølv-, Guld— og Kobber-sager.
+2Sa 8:10 sendte han sin Søn Hadoram til Kong David for at hilse paa ham og lykønske ham til, at han havde kæmpet med Hadad'ezer og slaaet ham — Hadad'ezer havde nemlig ligget i Krig med To'i — og han medbragte Sølv-, Guld- og Kobber-sager.
 2Sa 8:11 Ogsaa dem helligede Kong David HERREN tillige med det Sølv og Guld, han havde helliget af Byttet fra alle de undertvungne Folk,
 2Sa 8:12 Edom, Moab Ammoniterne, Filisterne, Amalek, og af det Bytte, han havde taget fra Rehobs Søn, Kong Hadad'ezer af Zoba.
 2Sa 8:13 Og David vandt sig et Navn. Da han vendte tilbage fra Sejren over Aram, slog han Edom i Saltdalen, 18 000 Mand;
@@ -8885,9 +8885,9 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ki 5:5 Se, derfor har jeg i Sinde at bygge HERREN min Guds Navn et Hus efter HERRENS Ord til min Fader David: Din Søn, som jeg sætter paa din Trone i dit Sted, han skal bygge Huset for mit Navn.
 1Ki 5:6 Giv derfor Ordre til, at der fældes Cedre til mig paa Libanon. Mine Folk skal arbejde sammen med dine, og jeg vil give dine Folk den Løn, du kræver; thi du ved jo, at der ikke findes nogen hos os, der kan fælde Træer som Zidonierne!«
 1Ki 5:7 Da Hiram modtog dette Bud fra Salomo, glædede det ham meget, og han sagde: »Lovet være HERREN i Dag, fordi han har givet David en viis Søn til at herske over dette store Folk!«
-1Ki 5:8 Og Hiram sendte Salomo følgende Svar: »Jeg har modtaget det Bud, du sendte mig, og jeg skal opfylde alt, hvad du ønsker med Hensyn til Ceder— og Cyprestræer;
+1Ki 5:8 Og Hiram sendte Salomo følgende Svar: »Jeg har modtaget det Bud, du sendte mig, og jeg skal opfylde alt, hvad du ønsker med Hensyn til Ceder- og Cyprestræer;
 1Ki 5:9 mine Folk skal bringe dem fra Libanon ned til Havet, og saa skal jeg lade dem samle til Tømmerflaader paa Havet og sende dem til det Sted, du anviser mig; der skal jeg lade dem skille ad, saa at du kan lade dem hente. Men du vil da ogsaa opfylde mit Ønske og sende Fødevarer til mit Hof!«
-1Ki 5:10 Saa sendte Hiram Salomo alt, hvad han ønskede af Ceder— og Cyprestræer;
+1Ki 5:10 Saa sendte Hiram Salomo alt, hvad han ønskede af Ceder- og Cyprestræer;
 1Ki 5:11 og Salomo sendte Hiram 20 000 Kor Hvede til Underhold for hans Hof og 20 Kor Olie af knuste Oliven. Saa meget sendte Salomo Hiram Aar efter Aar.
 1Ki 5:12 Og HERREN gav Salomo Visdom, som han havde lovet ham; og der var Fred mellem Hiram og Salomo, og de sluttede Pagt med hinanden.
 1Ki 5:13 Kong Salomo udskrev nu Hoveriarbejdere overalt i Israel, og Hoveriarbejderne udgjorde 30 000 Mand.
@@ -9866,7 +9866,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Ki 12:13 Derimod blev der for de Penge, der indkom i HERRENS Hus, hverken lavet Sølvfade eller Knive, Skaale, Trompeter eller nogen som helst anden Ting af Sølv eller Guld til HERRENS Hus;
 2Ki 12:14 men Pengene blev givet til dem, der stod for Arbejdet, og de brugte dem til Istandsættelsen af HERRENS Hus.
 2Ki 12:15 Og man holdt ikke Regnskab med de Mænd, hvem Pengene overlodes til Udbetaling til Arbejderne, men de handlede paa Tro og Love.
-2Ki 12:16 Men Skyldoffer— og Syndofferpengene blev ikke bragt til HERRENS Hus; de tilfaldt Præsterne.
+2Ki 12:16 Men Skyldoffer- og Syndofferpengene blev ikke bragt til HERRENS Hus; de tilfaldt Præsterne.
 2Ki 12:17 Paa den Tid drog Kong Hazael af Aram op og belejrede og indtog Gat. Da han truede med at drage mod Jerusalem,
 2Ki 12:18 tog Kong Joas af Juda alle de Helliggaver, som hans Fædre, Judas Konger Josafat, Joram og Ahazja havde helliget, sine egne Helliggaver og alt det Guld, der fandtes i Skatkamrene i HERRENS Hus og Kongens Palads, og sendte det til Kong Hazael af Aram. Saa opgav han Angrebet paa Jerusalem og drog bort.
 2Ki 12:19 Hvad der ellers er at fortælle om Joas, alt, hvad han udførte, staar optegnet i Judas Kongers Krønike.
@@ -10502,7 +10502,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 6:45 en Søn af Hasjabja, en Søn af Amazja, en Søn af Hilkija,
 1Ch 6:46 en Søn af Amzi, en Søn af Bani, en Søn af Sjemer,
 1Ch 6:47 en Søn af Mali en Søn af Musji, en Søn af Merari, en Søn af Levi.
-1Ch 6:48 Deres Brød Leviterne var pligtige at gøre alt Arbejdet ved Guds Hus's Bolig;
+1Ch 6:48 Deres Brødre Leviterne var pligtige at gøre alt Arbejdet ved Guds Hus's Bolig;
 1Ch 6:49 men Aron og hans Sønner ofrede Røgofre paa Brændofferalteret og Røgofferalteret, de udførte alt Arbejde i det Allerhelligste og skaffede Israel Soning, ganske som Guds Tjener Moses havde paabudt.
 1Ch 6:50 Arons Sønner var følgende: Hans Søn Eleazar, hans Søn Pinehas, hans Søn Abisjua,
 1Ch 6:51 hans Søn Bukki, hans Søn Uzzi, hans Søn Zeraja,
@@ -10559,7 +10559,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 7:21 hans Søn Zabad, hans Søn Sjutela — og Ezer og El'ad. Dem dræbte Mændene fra Gat, de indfødte i Landet, fordi de var draget ned for at tage deres Hjorde.
 1Ch 7:22 Deres Fader Efraim sørgede i lang Tid over dem, og hans Brødre kom for at trøste ham.
 1Ch 7:23 Saa gik han ind til sin Hustru, og hun blev frugtsommelig og fødte en Søn, som han kaldte Beri'a, fordi hans Hus var i Ulykke, da det skete.
-1Ch 7:24 Hans Datter var Sje'era, som byggede Nedre— og Øvre-Bet-Horon og Uzzen-Sje'era.
+1Ch 7:24 Hans Datter var Sje'era, som byggede Nedre- og Øvre-Bet-Horon og Uzzen-Sje'era.
 1Ch 7:25 Hans Søn var Refa, hans Søn Resjef, hans Søn Tela, hans Søn Tahan,
 1Ch 7:26 hans Søn Ladan, hans Søn Ammihud, hans Søn Elisjama,
 1Ch 7:27 hans Søn Nun, hans Søn Josua.
@@ -10819,7 +10819,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 15:25 Derpaa drog David, Israels Ældste og Tusindførerne hen for under Festglæde at lade HERRENS Pagts Ark bringe op fra Obed-Edoms Hus,
 1Ch 15:26 og da Gud hjalp Leviterne, der har HERRENS Pagts Ark, ofrede man syv Tyre og syv Vædre.
 1Ch 15:27 David har en fin linned Kappe, ligeledes alle Leviterne, der har Arken, og Sangerne og Konanja, som ledede dem, der bar. Og David var iført en linned Efod.
-1Ch 15:28 Og hele Israel bragte HERRENS Pagts Ark op under Festjubel og til Hornets, Trompeternes og Cymblernes Klang, under Harpe— og Citerspil.
+1Ch 15:28 Og hele Israel bragte HERRENS Pagts Ark op under Festjubel og til Hornets, Trompeternes og Cymblernes Klang, under Harpe- og Citerspil.
 1Ch 15:29 Men da HERRENS Pagts Ark kom til Davidsbyen, saa Sauls Datter Mikal ud af Vinduet, og da hun saa Kong David springe og danse, ringeagtede hun ham i sit Hjerte.
 1Ch 16:1 De førte saa Guds Pagts Ark ind og stillede den midt i det Telt, David havde rejst den; og de ofrede Brændofre og Takofre for Guds Aasyn.
 1Ch 16:2 Og da David var færdig med Brændofrene og Takofrene, velsignede han Folket i HERRENS Navn
@@ -11012,7 +11012,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 23:26 derfor behøver Leviterne heller ikke mere at bære Boligen og alle de Ting, som hører til dens Tjeneste.«
 1Ch 23:27 (Ifølge Davids sidste Forordninger regnes Tallet paa Leviterne fra Tyveaarsalderen og opefter).
 1Ch 23:28 Men deres Plads er ved Arons Sønners Side, for at de kan udføre Tjenesten i HERRENS Hus; de skal tage sig af Forgaardene, Kamrene, Renholdelsen af alle de hellige Ting og Arbejdet, der skal udføres i Guds Hus;
-1Ch 23:29 de skal sørge for Skuebrødene, Melet til Afgrødeofrene, de usyrede Fladbrød, Panden, Dejgen og alle Rum— og Længdemaal;
+1Ch 23:29 de skal sørge for Skuebrødene, Melet til Afgrødeofrene, de usyrede Fladbrød, Panden, Dejgen og alle Rum- og Længdemaal;
 1Ch 23:30 hver Morgen skal de staa og love og prise HERREN, ligesaa om Aftenen,
 1Ch 23:31 og hver Gang der ofres Brændofre til HERREN paa Sabbaterne, Nymaanedagene og Højtiderne; i det fastsatte Antal efter den for dem gældende Forskrift skal de altid staa for HERRENS Aasyn.
 1Ch 23:32 Saaledes skal de tage Vare paa, hvad der er at varetage ved Aabenbaringsteltet og ved det hellige og hjælpe deres Brødre, Arons Sønner, med Tjenesten i HERRENS Hus.
@@ -11110,7 +11110,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 26:30 Af Hebroniterne var Hasjabja og hans Brødre, 1700 dygtige Folk, sat til at varetage alt, hvad der vedrørte HERRENS Tjeneste og Kongens Tjeneste i Israel vesten for Jordan.
 1Ch 26:31 Til Hebroniterne hørte Jerija, Overhovedet for Hebroniterne, efter deres Nedstamning, efter Fædrenehusene — i Davids fyrretyvende Regeringsaar blev der iværksat en Undersøgelse angaaende dem, og der fandtes dygtige Folk iblandt dem i Ja'zer i Gilead —
 1Ch 26:32 og hans Brødre, 2700 dygtige Folk, Overhoveder for Fædrenehusene; dem satte Kong David over Rubeniterne, Gaditerne og Manasses halve Stamme til at varetage alle Sager, som vedrørte Gud og Kongen.
-1Ch 27:1 Israeliterne efter deres Tal: Fædrenehusenes Overhoveder, Tusind— og Hundredførerne og deres Fogeder, som tjente Kongen i alle Sager vedrørende Skifterne, de, der skiftevis traadte til og fra hver Maaned hele Aaret rundt, hvert Skifte paa 24 000 Mand:
+1Ch 27:1 Israeliterne efter deres Tal: Fædrenehusenes Overhoveder, Tusind- og Hundredførerne og deres Fogeder, som tjente Kongen i alle Sager vedrørende Skifterne, de, der skiftevis traadte til og fra hver Maaned hele Aaret rundt, hvert Skifte paa 24 000 Mand:
 1Ch 27:2 Over det første Skifte, den første Maaneds Skifte stod Isjba'al, Zabdiels Søn — til hans Skifte hørte 24 000 Mand —
 1Ch 27:3 af Perez's Efterkommere, Overhoved for alle Hærførerne; det var den første Maaned.
 1Ch 27:4 Over den anden Maaneds Skifte stod Ahohiten El'azar, Dodajs Søn; til hans Skifte hørte 24 000 Mand.
@@ -11144,7 +11144,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 27:32 Davids Farbroder Jonatan, en indsigtsfuld og skriftkyndig Mand, var Raadgiver. Jehiel, Hakmonis Søn, opdrog Kongens Sønner.
 1Ch 27:33 Akitofel var Kongens Raadgiver og Arkiten Husjaj Kongens Ven.
 1Ch 27:34 Akitofels Eftermand var Jojada, Benajas Søn, og Ebjatar. Joab var Kongens Hærfører.
-1Ch 28:1 Derpaa samlede David i Jerusalem alle Israels Øverster, Stammeøversterne, Skifternes Øverster, som var i Kongens Tjeneste, Tusind— og Hundredførerne, Overopsynsmændene over alle Kongens og hans Sønners Ejendele og Kvæg, ligeledes Hofmændene, Kærnetropperne og alle dygtige Krigere.
+1Ch 28:1 Derpaa samlede David i Jerusalem alle Israels Øverster, Stammeøversterne, Skifternes Øverster, som var i Kongens Tjeneste, Tusind- og Hundredførerne, Overopsynsmændene over alle Kongens og hans Sønners Ejendele og Kvæg, ligeledes Hofmændene, Kærnetropperne og alle dygtige Krigere.
 1Ch 28:2 Kong David rejste sig op og sagde: »Hør mig, mine Brødre og mit Folk! Jeg havde i Sinde at bygge HERRENS Pagts Ark og vor Guds Fodskammel et Hus at hvile i og havde truffet forberedelser til at bygge.
 1Ch 28:3 Men Gud sagde til mig: Du skal ikke bygge mit Navn et Hus, thi du er en Krigens Mand og har udgydt Blod!
 1Ch 28:4 Af mit Fædrenehus udvalgte HERREN, Israels Gud, ene mig til Konge over Israel evindelig, thi han udvalgte Juda til Fyrste og af Juda mit Fædrenehus, og mellem min Faders Sønner fandt han Behag i mig, saa han gjorde mig til Konge over hele Israel.
@@ -11170,7 +11170,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 29:3 I min Glæde over min Guds Hus giver jeg der hos til min Guds Hus, hvad jeg ejer af Guld og Sølv, ud over alt, hvad jeg har bragt til Veje til det hellige Hus:
 1Ch 29:4 3000 Talenter Guld, Ofirguld, og 7000 Talenter lutret Sølv til at overtrække Bygningernes Vægge med,
 1Ch 29:5 Guldet til det, der skal forgyldes, og Sølvet til det, der skal forsølves, og til ethvert Arbejde, der skal udføres af Haandværkernes Haand. Hvem er nu villig til i Dag at bringe HERREN Gaver?«
-1Ch 29:6 Da kom Øversterne for Fædrenehusene, Øversterne for Israels Stammer, Tusind— og Hundredførerne og Øversterne i Kongens Tjeneste frivilligt
+1Ch 29:6 Da kom Øversterne for Fædrenehusene, Øversterne for Israels Stammer, Tusind- og Hundredførerne og Øversterne i Kongens Tjeneste frivilligt
 1Ch 29:7 og gav til Arbejdet paa Guds Hus 5000 Talenter og 10 000 Darejker Guld, 10 000 Talenter Sølv, 18 000 Talenter Kobber og 100 000 Talenter Jern;
 1Ch 29:8 og de, som ejede Ædelsten, gav dem til HERRENS Hus's Skat, der stod under Gersoniten Jehiels Tilsyn.
 1Ch 29:9 Og Folket glædede sig over deres Vilje til at give, thi af et helt Hjerte gav de HERREN frivillige Gaver; ogsaa Kong David følte stor Glæde.
@@ -11196,7 +11196,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 1Ch 29:29 Kong Davids Historie fra først til sidst staar optegnet i Seeren Samuels Krønike, Profeten Natans Krønike og Seeren Gads Krønike
 1Ch 29:30 tillige med hele hans Regering og hans Heltegerninger og de Tildragelser, som hændtes ham og Israel og alle Lande og Riger.
 2Ch 1:1 Salomo, Davids Søn, fik sikret sig Magten, og HERREN hans Gud var med ham og gjorde ham overmaade mægtig.
-2Ch 1:2 Da tilsagde Salomo hele Israel, Tusind— og Hundredførerne, Dommerne og alle Israels Øverster, Fædrenehusenes Overhoveder,
+2Ch 1:2 Da tilsagde Salomo hele Israel, Tusind- og Hundredførerne, Dommerne og alle Israels Øverster, Fædrenehusenes Overhoveder,
 2Ch 1:3 og ledsaget af hele Forsamlingen drog han til Offerhøjen i Gibeon. Der stod Guds Aabenbaringstelt, som HERRENS Tjener Moses havde rejst i Ørkenen,
 2Ch 1:4 men Guds Ark havde David bragt op fra Kirjat-Jearim til det Sted, han havde beredt den, idet han havde ladet rejse et Telt til den i Jerusalem.
 2Ch 1:5 Men Kobberalteret, som Bezal'el, en Søn af Hurs Søn Uri, havde lavet, stod der foran HERRENS Bolig, og der søgte Salomo og Forsamlingen ham.
@@ -11219,7 +11219,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Ch 2:5 Huset, jeg vil bygge, skal være stort; thi vor Gud er større end alle Guder.
 2Ch 2:6 Hvem magter at bygge ham et Hus, naar dog Himmelen og Himlenes Himle ikke kan rumme ham? Og hvem er jeg, at jeg skulde bygge ham et Hus, naar det ikke var for at tænde Offerild for hans Aasyn!
 2Ch 2:7 Saa send mig da en Mand, der har Forstand paa at arbejde i Guld. Sølv, Kobber, Jern, rødt Purpur, Karmoisin og violet Purpur og forstaar sig paa Billedskærerarbejde, til at arbejde sammen med mine egne Mestre her i Juda og Jerusalem, dem, som min Fader antog;
-2Ch 2:8 og send mig Ceder-, Cypres— og Algummimtræ fra Libanon, thi jeg ved at dine Folk forstaar at fælde Libanons Træer; og mine Folk skal hjælpe dine;
+2Ch 2:8 og send mig Ceder-, Cypres- og Algummimtræ fra Libanon, thi jeg ved at dine Folk forstaar at fælde Libanons Træer; og mine Folk skal hjælpe dine;
 2Ch 2:9 men Træ maa jeg have i Mængde, thi Huset, jeg vil bygge, skal være stort, det skal være et Underværk.
 2Ch 2:10 For Tømrerne, som fælder Træerne, vil jeg til Underhold for dine Folk give 20 000 Kor Hvede, 20 000 Kor Byg, 20 000 Bat Vin og 20 000 Bat Olie.«
 2Ch 2:11 Kong Huram af Tyrus svarede i et Brev, som han sendte Salomo: »Fordi HERREN elsker sit Folk, har han gjort dig til Konge over dem!«
@@ -11351,7 +11351,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Ch 8:2 ogsaa de Byer, Huram afstod til Salomo, befæstede Salomo og lod Israeliterne bosætte sig i dem —
 2Ch 8:3 drog Salomo til Hamat-Zoba og indtog det.
 2Ch 8:4 Han befæstede ogsaa Tadmor i Ørkenen og alle de Forraadsbyer, han byggede i Hamat;
-2Ch 8:5 ligeledes genopbyggede han Øvre— og Nedre-Bet-Horon, saa de blev Fæstninger med Mure, Porte og Portslaaer,
+2Ch 8:5 ligeledes genopbyggede han Øvre- og Nedre-Bet-Horon, saa de blev Fæstninger med Mure, Porte og Portslaaer,
 2Ch 8:6 ligeledes Ba'alat og alle Salomos Forraadsbyer, Vognbyerne og Rytterbyerne, og alt andet, som Salomo fik Lyst til at bygge i Jerusalem, i Libanon og i hele sit Rige.
 2Ch 8:7 Alt, hvad der var tilbage af Hetiterne, Amoriterne, Perizziterne, Hivviterne og Jebusiterne, og som ikke hørte til Israeliterne,
 2Ch 8:8 deres Efterkommere, som var tilbage efter dem i Landet, og som Israeliterne ikke havde tilintetgjort, dem udskrev Salomo til Hoveriarbejde, som det er den Dag i Dag.
@@ -11388,7 +11388,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Ch 9:21 Kongen havde nemlig Skibe, det sejlede paa Tarsis med Hurams Folk; og een Gang hvert tredje Aar kom Tarsisskibene, ladet med Guld, Sølv, Elfenben, Aber og Paafugle.
 2Ch 9:22 Kong Salomo overgik alle Jordens Konger i Rigdom og Visdom.
 2Ch 9:23 Alle Jordens Konger søgte hen til Salomo for at høre den Visdom, Gud havde lagt i hans Hjerte;
-2Ch 9:24 og alle bragte de Gaver med: Sølv— og Guldsager, Klæder, Vaaben, Røgelse, Heste og Muldyr; saaledes gik det Aar efter Aar.
+2Ch 9:24 og alle bragte de Gaver med: Sølv- og Guldsager, Klæder, Vaaben, Røgelse, Heste og Muldyr; saaledes gik det Aar efter Aar.
 2Ch 9:25 Salomo havde 4000 Spand Heste og Vogne og 12 000 Ryttere; dem lagde han dels i Vognbyerne, dels hos sig i Jerusalem.
 2Ch 9:26 Han herskede over alle Konger fra Floden til Filisternes Land og Ægyptens Grænse.
 2Ch 9:27 Kongen bragte det dertil, at Sølv i Jerusalem var lige saa almindeligt som Sten, og Cedertræ lige saa almindeligt som Morbærfigentræ i Lavlandet.
@@ -11709,7 +11709,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Ch 25:2 Han gjorde, hvad der var ret i HERRENS Øjne, dog ikke med et helt Hjerte.
 2Ch 25:3 Da han havde sikret sig Magten, lod han dem af sine Folk dræbe, der havde dræbt hans Fader Kongen,
 2Ch 25:4 men deres Børn lod han ikke ihjelslaa, i Henhold til hvad der staar skrevet i Moses's Lovbog, hvor HERREN paabyder: »Fædre skal ikke lide Døden for Børns Skyld, og Børn skal ikke lide Døden for Fædres Skyld. Men enhver skal lide Døden for sin egen Synd.«
-2Ch 25:5 Amazja samlede Judæerne og opstillede dem efter Fædrenehuse under Tusind— og Hundredførerne, hele Juda og Benjamin, og da han mønstrede dem fra Tyveaarsalderen og opefter, fandt han, at de udgjorde 300 000 udvalgte Folk, øvede Krigere, der har Skjold og Spyd.
+2Ch 25:5 Amazja samlede Judæerne og opstillede dem efter Fædrenehuse under Tusind- og Hundredførerne, hele Juda og Benjamin, og da han mønstrede dem fra Tyveaarsalderen og opefter, fandt han, at de udgjorde 300 000 udvalgte Folk, øvede Krigere, der har Skjold og Spyd.
 2Ch 25:6 Dertil lejede han i Israel 100 000 dygtige Krigere for 100 Sølvtalenter.
 2Ch 25:7 Men en Guds Mand kom til ham og sagde: »Israels Hær maa ikke følge dig, Konge, thi HERREN er ikke med Israel, ikke med nogen af Efraimiterne;
 2Ch 25:8 og hvis du mener, at du kan vinde Styrke paa den Maade, vil Gud bringe dig til Fald for Fjenden, thi hos Gud er der Kraft til at hjælpe og til at bringe til Fald!«
@@ -11857,7 +11857,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Ch 30:27 og Præsterne og Leviterne stod op og velsignede Folket, og deres Røst hørtes, og deres Bøn naaede Himmelen, hans hellige Bolig.
 2Ch 31:1 Da alt det var til ende, drog alle de Israeliter, som var til stede, ud til Judas Byer, og de sønderbrød Stenstøtterne, omhuggede Asjerastøtterne og nedrev Offerhøjene og Altrene i hele Juda og Benjamin og i Efraim og Manasse, saa der ikke blev Spor tilbage; saa vendte alle Israeliterne hjem, hver til sin Ejendom i deres Byer.
 2Ch 31:2 Saa ordnede Ezekias Præsternes og Leviternes Skifter, Skifte for Skifte, saa at hver enkelt Præst og Levit fik sin særlige Gerning med at ofre Brændofre og Takofre og med af gøre Tjeneste og love og prise i HERRENS Lejrs Porte.
-2Ch 31:3 Hvad Kongen gav af sit Gods, var til Brændofrene, Morgen— og Aftenbrændofrene og Brændofrene paa Sabbaterne, Nymaanerne og Højtiderne, som det er foreskrevet i HERRENS Lov.
+2Ch 31:3 Hvad Kongen gav af sit Gods, var til Brændofrene, Morgen- og Aftenbrændofrene og Brændofrene paa Sabbaterne, Nymaanerne og Højtiderne, som det er foreskrevet i HERRENS Lov.
 2Ch 31:4 Og han bød Folket, dem, der boede i Jerusalem, at afgive, hvad der tilkom Præsterne og Leviterne, for at de kunde holde fast ved HERRENS Lov.
 2Ch 31:5 Saa snart det Bud kom ud, bragte Israeliterne i rigelig Mængde Førstegrøde af Korn, Most, Olie og Honning og al Markens Afgrøde, og de gav Tiende af alt i rigeligt Maal;
 2Ch 31:6 ogsaa de Israeliter, der boede i Judas Byer, gav Tiende af Hornkvæg og Smaakvæg, og de bragte Helliggaverne, der var helliget HERREN deres Gud, og lagde dem Bunke for Bunke.
@@ -11924,7 +11924,7 @@ Rut 4:22 Obed avlede Isaj, og Isaj avlede David.
 2Ch 33:13 Og da han bad til ham, bønhørte han ham; han hørte hans Bøn og bragte ham tilbage til Jerusalem til hans Kongedømme; da indsaa Manasse, at HERREN er Gud.
 2Ch 33:14 Senere byggede han en ydre Mur ved Davidsbyen vesten for Gihon i Dalen og hen imod Fiskeporten, saa at den omsluttede Ofel; og han byggede den meget høj. I alle de befæstede Byer i Juda ansatte han Hærførere.
 2Ch 33:15 Han fjernede de fremmede Guder og Gudebilledet fra HERRENS Hus og alle de Altre, han havde bygget paa Tempelbjerget og i Jerusalem, og kastede dem uden for Byen.
-2Ch 33:16 Og han istandsatte HERRENS Alter og ofrede Tak— og Lovprisningsofre derpaa; og han bød Juda at dyrke HERREN, Israels Gud.
+2Ch 33:16 Og han istandsatte HERRENS Alter og ofrede Tak- og Lovprisningsofre derpaa; og han bød Juda at dyrke HERREN, Israels Gud.
 2Ch 33:17 Men Folket vedblev at ofre paa Offerhøjene, dog kun til HERREN deres Gud.
 2Ch 33:18 Hvad der ellers er at fortælle om Manasse, hans Bøn til sin Gud og de Seeres Ord, som talte til ham i HERRENS, Israels Guds, Navn, staar jo optegnet i Israels Kongers Krønike;
 2Ch 33:19 hans Bøn og Bønhørelse, al hans Synd og Troløshed og de Steder, hvor han opførte Offerhøje og opstillede Asjerastøtter og Gudebilleder, før han ydmygede sig, staar jo optegnet i Seernes Krønike.
@@ -12100,7 +12100,7 @@ Ezr 2:69 de gav efter deres Evne til Byggesummen 61 000 Drakmer Guld, 5000 Miner
 Ezr 2:70 Derpaa bosatte Præsterne, Leviterne og en Del al Folket sig i Jerusalem og dets Omraade, men Sangerne, Dørvogterne og Tempeltrællene og hele det øvrige Israel i deres Byer.
 Ezr 3:1 Da den syvende Maaned indtraf — Israeliterne boede nu i deres Byer — samledes Folket fuldtalligt i Jerusalem;
 Ezr 3:2 og Jesua, Jozadaks Søn, og hans Brødre Præsterne og Zerubbabel, Sjealtiels Søn, og hans Brødre skred til at bygge Israels Guds Alter for at ofre Brændofre derpaa som foreskrevet i den Guds Mand Moses's Lov.
-Ezr 3:3 En Del af Hedningerne samlede sig imod dem, men de rejste dog Alteret paa dets gamle Plads og ofrede Brændofre derpaa til HERREN, Morgen— og Aftenbrændofre.
+Ezr 3:3 En Del af Hedningerne samlede sig imod dem, men de rejste dog Alteret paa dets gamle Plads og ofrede Brændofre derpaa til HERREN, Morgen- og Aftenbrændofre.
 Ezr 3:4 Derpaa fejrede de Løvhyttefesten som foreskrevet og ofrede Brændofre Dag for Dag i det rette Tal og paa den foreskrevne Maade, hver Dag hvad der hørte sig til,
 Ezr 3:5 og siden det daglige Brændoffer og de Brændofre, som hørte til Nymaanerne og alle HERRENS hellige Højtider, og alle de Brændofre, man frivilligt bragte HERREN.
 Ezr 3:6 Den første Dag i den syvende Maaned begyndte de at ofre Brændofre til HERREN, før Grunden til HERRENS Helligdom endnu var lagt.
@@ -12148,7 +12148,7 @@ Ezr 5:10 Vi spurgte dem ogsaa om deres Navne for at lade dig dem vide, og vi ops
 Ezr 5:11 Og Svaret, de gav os, lød saaledes: Vi er Himmelens og Jordens Guds Tjenere, og vi bygger det Tempel, som blev bygget for mange Aar siden, da en stor Konge i Israel byggede og opførte det.
 Ezr 5:12 Da imidlertid vore Fædre vakte Himmelens Guds Vrede, gav han dem i Babels Konges, Kaldæeren Nebukadnezars, Haand, og han nedbrød dette Tempel og førte Folket i Landflygtighed til Babel.
 Ezr 5:13 Men i sit første Regeringsaar gav Kong Kyros af Babel Befaling til at genopbygge dette Gudshus;
-Ezr 5:14 og Kong Kyros lod tillige de til Gudshuset hørende Guld— og Sølvkar, som Nebukadnezar havde borttaget fra Helligdommen i Jerusalem og ført til sin Helligdom i Babel, tage ud af Helligdommen i Babel, og de overgaves til en Mand ved Navn Sjesjbazzar, som han havde indsat til Statholder;
+Ezr 5:14 og Kong Kyros lod tillige de til Gudshuset hørende Guld- og Sølvkar, som Nebukadnezar havde borttaget fra Helligdommen i Jerusalem og ført til sin Helligdom i Babel, tage ud af Helligdommen i Babel, og de overgaves til en Mand ved Navn Sjesjbazzar, som han havde indsat til Statholder;
 Ezr 5:15 og han sagde til ham: «Tag disse Kar og drag ben og lad dem faa deres Plads i Helligdommen i Jerusalem og lad Gudshuset blive genopbygget paa sin gamle Plads!»
 Ezr 5:16 Saa kom denne Sjesjbazzar og lagde Grunden til Gudshuset i Jerusalem, og siden den Tid er der bygget derpaa, men det er ikke færdigt.
 Ezr 5:17 Hvis derfor Kongen synes, saa lad der blive set efter i det kongelige Skatkammer ovre i Babel, om det har sig saaledes, at der af Kong Kyros er givet Befaling til at bygge dette Gudshus i Jerusalem; og Kongen give os saa sin Vilje i denne Sag til Kende!«
@@ -12156,7 +12156,7 @@ Ezr 6:1 Saa gav Kong Darius Befaling til at se efter i Skatkammeret, hvor man i 
 Ezr 6:2 og man fandt da i Borgen i Ameta i Landsdelen Medien en Skriftrulle, hvori der stod: »Til Ihukommelse.
 Ezr 6:3 I sit første Regeringsaar udstedte Kong Kyros følgende Befaling: Gudshuset i Jerusalem skal genopbygges, for at man der kan ofre Slagtofre og frembære Guds Ildofre; det skal være tresindstyve Alen højt og tresindstyve Alen bredt
 Ezr 6:4 med tre Lag Kvadersten og eet Lag Bjælker; Omkostningerne udredes af Kongens Hus.
-Ezr 6:5 Desuden skal Gudshusets Guld— og Sølvkar, som Nebukadnezar borttog fra Helligdommen i Jerusalem og førte til Babel, gives tilbage, og de skal bringes tilbage til deres Plads i Helligdommen i Jerusalem, og du skal sætte dem ind i Gudshuset!«
+Ezr 6:5 Desuden skal Gudshusets Guld- og Sølvkar, som Nebukadnezar borttog fra Helligdommen i Jerusalem og førte til Babel, gives tilbage, og de skal bringes tilbage til deres Plads i Helligdommen i Jerusalem, og du skal sætte dem ind i Gudshuset!«
 Ezr 6:6 »Derfor skal I, Tattenaj, Statholder hinsides Floden, og Sjetar-Bozenaj med eders Embedsbrødre, Afarsekiterne hinsides Floden, ikke blande eder deri.
 Ezr 6:7 Lad Arbejdet med dette Gudshus gaa sin Gang, lad Jødernes Statholder og Jødernes Ældste bygge dette Gudshus paa den gamle Plads.
 Ezr 6:8 Og hermed giver jeg Paabud om, hvorledes I skal stille eder over for disse Jødernes Ældste med Hensyn til Opførelsen af dette Gudshus: Af Kongens Skatteindtægter fra Landene hinsides Floden skal Omkostningerne nøjagtigt udredes til disse Mænd, og det ufortøvet;
@@ -12190,7 +12190,7 @@ Ezr 7:13 Hermed giver jeg Tilladelse til, at enhver af Israels Folk og dets Præs
 Ezr 7:14 al den Stund du af Kongen og hans syv Raadgivere sendes for at undersøge Forholdene i Judæa og Jerusalem paa Grundlag af din Guds Lov, som er i din Haand,
 Ezr 7:15 og for at bringe det Sølv og Guld derhen, som Kongen og hans Raadgivere frivilligt har givet Israels Gud, hvis Bolig er i Jerusalem,
 Ezr 7:16 og alt det Sølv og Guld, som du faar rundt om i Landsdelen Babel, tillige med de frivillige Gaver fra Folket og Præsterne, der giver frivillige Gaver til deres Guds Hus i Jerusalem.
-Ezr 7:17 Derfor skal du samvittighedsfuldt for disse Penge købe Tyre, Vædre og Lam med tilhørende Afgrøde— og Drikofre og ofre dem paa Alteret i eders Guds Hus i Jerusalem;
+Ezr 7:17 Derfor skal du samvittighedsfuldt for disse Penge købe Tyre, Vædre og Lam med tilhørende Afgrøde- og Drikofre og ofre dem paa Alteret i eders Guds Hus i Jerusalem;
 Ezr 7:18 og hvad du og dine Brødre finder for godt at gøre med det Sølv og Guld, der bliver tilovers, det maa I gøre efter eders Guds Vilje.
 Ezr 7:19 De Kar, der skænkes dig til Tjenesten i din Guds Hus, skal du afgive og stille for Israels Guds Aasyn i Jerusalem.
 Ezr 7:20 Og de andre nødvendige Udgifter til din Guds Hus, som det tilfalder dig at udrede, maa du udrede af det kongelige Skatkammer.
@@ -12669,7 +12669,7 @@ Neh 12:42 endvidere Ma'aseja, Sjemaja, El'azar, Uzzi, Johanan, Malkija, Elam og 
 Neh 12:43 Paa den Dag ofrede de store Slagtofre og var glade, thi Gud havde bragt dem stor Glæde; ogsaa Kvinderne og Børnene var glade; og Glæden i Jerusalem hørtes langt bort.
 Neh 12:44 Paa den Dag indsattes der Mænd til at have Tilsyn med de Kamre, der brugtes til Forraadene, Offerydelserne, Førstegrøden og Tienden, for i dem at opsamle de i Loven foreskrevne Afgifter til Præsterne og Leviterne fra de forskellige Bymarker, thi Juda glædede sig over Præsterne og Leviterne, der gjorde Tjeneste;
 Neh 12:45 og disse tog Vare paa, hvad der var at varetage for deres Gud og ved Renselsen, ligesom ogsaa Sangerne og Dørvogterne gjorde deres Gerning efter Davids og hans Søn Salomos Bud.
-Neh 12:46 Thi allerede paa Davids Tid var Asaf Leder for Sangerne og for Lov— og Takkesangene til Gud.
+Neh 12:46 Thi allerede paa Davids Tid var Asaf Leder for Sangerne og for Lov- og Takkesangene til Gud.
 Neh 12:47 Hele Israel gav paa Zerubbabels og Nehemias's Tid Afgifter til Sangerne og Dørvogterne, efter som det krævedes Dag for Dag; og de gav Leviterne Helliggaver, og Leviterne gav Arons Sønner Helliggaver.
 Neh 13:1 Paa den Tid blev der læst op af Moses's Bog for Folket, og man fandt skrevet deri, at ingen Ammonit eller Moabit nogen Sinde maatte faa Adgang til Guds Menighed,
 Neh 13:2 fordi de ikke kom Israeliterne i Møde med Brød og Vand, og fordi han havde lejet Bileam til at forbande dem, men vor Gud vendte Forbandelsen til Velsignelse.
@@ -12707,14 +12707,14 @@ Est 1:2 i hine Dage, da Kong Ahasverus sad paa sin Kongetrone i Borgen Susan, ti
 Est 1:3 I sit tredje Regeringsaar gjorde han et Gæstebud for alle sine Fyrster og sine Folk; Persiens og Mediens ypperste Hærførere og Landsdelenes Fyrster var hans Gæster,
 Est 1:4 og han udfoldede sin kongelige Herligheds Rigdom og sin Magts Glans og Pragt for dem i mange Dage, 180 Dage.
 Est 1:5 Og da disse Dage var omme, gjorde Kongen for hele Folket i Borgen Susan, fra den højeste til den laveste, et syv Dages Gæstebud paa den aabne Plads foran Parken ved Kongeborgen.
-Est 1:6 Hvidt Linned og violet Purpur var med Snore af fint Linned og rødt Purpur hængt op paa Sølvstænger og Marmorsøjler, og Guld— og Sølvdivaner stod paa et Gulv, der var indlagt med broget og hvidt Marmor, Perlemor og sorte Sten.
+Est 1:6 Hvidt Linned og violet Purpur var med Snore af fint Linned og rødt Purpur hængt op paa Sølvstænger og Marmorsøjler, og Guld- og Sølvdivaner stod paa et Gulv, der var indlagt med broget og hvidt Marmor, Perlemor og sorte Sten.
 Est 1:7 Drikkene skænkedes i Guldbægre, alle forskellige, og der var kongelig Vin i store Maader paa ægte Fyrstevis;
-Est 1:8 og ved Drikkelaget gjaldt den Regel, at man ikke nødte nogen; thi Kongen havde paalagt alle sine Hovmestre at lade enhver om, hvor meget han vilde have.
+Est 1:8 og ved Drikkelaget gjaldt den Regel, at man ikke nødte nogen; thi Kongen havde paalagt alle sine Hovmestre at lade enhver om, hvor meet han vilde have.
 Est 1:9 Ogsaa Dronning Vasjti gjorde et Gæstebud for Kvinderne i Kong Ahasverus's Kongeborg.
 Est 1:10 Da Kongen den syvende Dag var oprømt af Vinen, bød han Mehuman, Bizta, Harbona, Bigta, Abagta, Zetar og Karkas, de syv Hofmænd, som stod i Kong Ahasverus's Tjeneste,
 Est 1:11 at føre Dronning Vasjti, prydet med det kongelige Diadem, frem for Kongen, for at han kunde vise Folkene og Fyrsterne hendes Dejlighed. Thi hun var meget smuk.
 Est 1:12 Men Dronning Vasjti vægrede sig ved at komme paa Kongens Bud, som Hofmændene overbragte. Da blev Kongen harmfuld, og Vreden blussede op i ham.
-Est 1:13 Og Kongen spurgte de vise, som kendte til Tidernes Tydning — thi Kongens Ord blev efter Skik og Brug forelagt alle de Lov— og Retskyndige,
+Est 1:13 Og Kongen spurgte de vise, som kendte til Tidernes Tydning — thi Kongens Ord blev efter Skik og Brug forelagt alle de Lov- og Retskyndige,
 Est 1:14 og de, der stod ham nærmest, var Karsjena, Sjetar, Admata, Tarsjisj, Meres, Marsena og Memukan, de syv persiske og mediske Fyrster, som saa Kongens Aasyn og havde den øverste Magt i Riget —:
 Est 1:15 »Hvad skal der efter Loven gøres ved Dronning Vasjti, fordi hun ikke adlød den Befaling, Kong Ahasverus gav hende ved Hofmændene?«
 Est 1:16 Da sagde Memukan i Kongens og Fyrsternes Paahør: »Dronning Vasjti har ikke alene forbrudt sig imod Kongen, men ogsaa imod alle Fyrster og alle Folk i alle Kong Ahasverus's Lande;
@@ -12850,12 +12850,12 @@ Est 9:13 Ester svarede: Hvis Kongen synes, lad det saa ogsaa i Morgen tillades J
 Est 9:14 Da bød Kongen, at det skulde ske; og der udgik en Forordning derom i Susan, og Hamans ti Sønner blev hængt op i Galger.
 Est 9:15 Saa sluttede Jøderne i Susan sig ogsaa sammen paa den fjortende Dag i Adar Maaned og dræbte 300 Mand i Susan. Men efter Byttet rakte de ikke Hænderne ud.
 Est 9:16 Men ogsaa de andre Jøder i Kongens Lande sluttede sig sammen og værgede deres Liv og tog Hævn over deres Fjender og dræbte blandt deres Avindsmænd 75 000
-Est 9:17 paa den trettende Dag i Adar Maaned; men efter Byttet rakte de ikke Hænderne ud; og de hvilede paa den fjortende og gjorde den til en Gæstebuds— og Glædesdag.
-Est 9:18 Men Jøderne i Susan sluttede sig sammen baade den trettende og fjortende Dag i Maaneden og hvilede paa den femtende, og den gjorde de til Gæstebuds— og Glædesdag.
-Est 9:19 Derfor fejrer Jøderne paa Landet, de, der bor i Landsbyerne, den fjortende Dag i Adar Maaned som en Glædes-, Gæstebuds— og Festdag, paa hvilken de sender hverandre Gaver.
+Est 9:17 paa den trettende Dag i Adar Maaned; men efter Byttet rakte de ikke Hænderne ud; og de hvilede paa den fjortende og gjorde den til en Gæstebuds- og Glædesdag.
+Est 9:18 Men Jøderne i Susan sluttede sig sammen baade den trettende og fjortende Dag i Maaneden og hvilede paa den femtende, og den gjorde de til Gæstebuds- og Glædesdag.
+Est 9:19 Derfor fejrer Jøderne paa Landet, de, der bor i Landsbyerne, den fjortende Dag i Adar Maaned som en Glædes-, Gæstebuds- og Festdag, paa hvilken de sender hverandre Gaver.
 Est 9:20 Og Mordokaj nedskrev disse Tildragelser og udsendte Skrivelser til alle Jøder i alle Kong Ahasverus's Lande nær og fjern
 Est 9:21 for at gøre det til Pligt for dem hvert Aar at fejre den fjortende og femtende Adar —
-Est 9:22 de Dage, da Jøderne fik Ro for deres Fjender, og den Maaned, da deres Trængsel vendtes til Glæde og deres Sorg til en Festdag — at fejre dem som Gæstebuds— og Glædesdage, paa hvilke de skulde sende hverandre af deres Mad og de fattige Gaver.
+Est 9:22 de Dage, da Jøderne fik Ro for deres Fjender, og den Maaned, da deres Trængsel vendtes til Glæde og deres Sorg til en Festdag — at fejre dem som Gæstebuds- og Glædesdage, paa hvilke de skulde sende hverandre af deres Mad og de fattige Gaver.
 Est 9:23 Og Jøderne vedtog, at det, som de nu for første Gang havde gjort, og som Mordokaj havde skrevet til dem om, skulde være en fast Skik.
 Est 9:24 Fordi Agagiten Haman, Hammedatas Søn, alle Jøders Fjende, havde lagt Raad op imod Jøderne om at tilintetgøre dem og kastet Pur — det er Lod — for at ødelægge og tilintetgøre dem,
 Est 9:25 men Kongen havde, da det kom ham for Øre, givet skriftlig Befaling til, at det onde Raad, Haman havde lagt op mod Jøderne, skulde falde tilbage paa hans eget Hoved, og ladet ham og hans Sønner hænge i Galgen,
@@ -14550,7 +14550,7 @@ Psa 40:3 Han drog mig op af den brusende Grav, af det skidne Dynd, han satte min
 Psa 40:4 en ny Sang lagde han i min Mund, en Lovsang til vor Gud. Mange skal se det og frygte og stole paa HERREN.
 Psa 40:5 Salig den Mand, der sætter sin Lid til HERREN, ej vender sig til hovmodige eller dem, der hælder til Løgn.
 Psa 40:6 Mange Undere gjorde du, HERRE min Gud, og mange Tanker tænkte du for os; de kan ikke opregnes for dig; ellers forkyndte og fortalte jeg dem; til at tælles er de for mange.
-Psa 40:7 Til Slagt— og Afgrødeoffer har du ej Lyst, du gav mig aabne Ører, Brænd— og Syndoffer kræver du ikke.
+Psa 40:7 Til Slagt- og Afgrødeoffer har du ej Lyst, du gav mig aabne Ører, Brænd- og Syndoffer kræver du ikke.
 Psa 40:8 Da sagde jeg: »Se, jeg kommer, i Bogrullen er der givet mig Forskrift;
 Psa 40:9 at gøre din Vilje, min Gud, er min Lyst, og din Lov er i mit Indre.«
 Psa 40:10 I en stor Forsamling forkyndte jeg Retfærd, se, mine Læber lukked jeg ikke; HERRE, du ved det.
@@ -14739,7 +14739,7 @@ Psa 51:17 Herre, aaben mine Læber, saa skal min Mund forkynde din Pris.
 Psa 51:18 Thi i Slagtoffer har du ikke Behag, og gav jeg et Brændoffer, vandt det dig ikke.
 Psa 51:19 Offer for Gud er en sønderbrudt Aand; et sønderbrudt, sønderknust Hjerte agter du ikke ringe, o Gud.
 Psa 51:20 Gør vel i din Naade mod Zion, opbyg Jerusalems Mure!
-Psa 51:21 Da skal du have Behag i rette Ofre, Brænd— og Heloffer, da bringes Tyre op paa dit Alter.
+Psa 51:21 Da skal du have Behag i rette Ofre, Brænd- og Heloffer, da bringes Tyre op paa dit Alter.
 Psa 52:1 Til Sangmesteren. En Maskil af David,
 Psa 52:2 da Edomiten Doeg kom og meldte Saul, at David var gaaet ind i Ahimeleks Hus.
 Psa 52:3 Du stærke, hvi bryster du dig af din Ondskab imod den fromme?
@@ -21856,7 +21856,7 @@ Dan 2:30 Og mig er denne Hemmelighed aabenbaret, ikke ved nogen Visdom, som jeg 
 Dan 2:31 Du saa, o Konge, for dig en vældig Billedstøtte; denne Billedstøtte var stor og dens Glans overmaade stærk; den stod foran dig, og dens Udseende var forfærdeligt.
 Dan 2:32 Billedstøttens Hoved var af fint Guld, Bryst og Arme af Sølv, Bug og Lænder af Kobber,
 Dan 2:33 Benene af Jern og Fødderne halvt af Jern og halvt af Ler.
-Dan 2:34 Saaledes skuede du, indtil en Sten reves løs, dog ikke ved Menneskehænder, og ramte Billedstøttens Jern— og Lerfødder og knuste dem;
+Dan 2:34 Saaledes skuede du, indtil en Sten reves løs, dog ikke ved Menneskehænder, og ramte Billedstøttens Jern- og Lerfødder og knuste dem;
 Dan 2:35 og paa een Gang knustes Jern, Ler, Kobber, Sølv og Guld og blev som Avner fra Somrens Tærskepladser, og Vinden bar det sporløst bort; men Stenen, som ramte Billedstøtten, blev til et stort Bjerg, der fyldte hele Jorden.
 Dan 2:36 Saaledes var Drømmen, og nu vil vi tyde Kongen den:
 Dan 2:37 Du, o Konge, Kongernes Konge, hvem Himmelens Gud gav Kongedømme, Magt, Styrke og Ære,
@@ -21941,7 +21941,7 @@ Dan 4:36 I samme Stund fik jeg min Forstand igen; jeg fik ogsaa min Herlighed og
 Dan 4:37 Nu lover, ophøjer og ærer jeg, Nebukadnezar, Himmelens Konge: Alle hans Gerninger er Sandhed, hans Veje Retfærd, og han kan ydmyge dem, som vandrer i Hovmod.
 Dan 5:1 Kong Belsazzar gjorde et stort Gæstebud for sine tusinde Stormænd og drak Vin med dem.
 Dan 5:2 Og paavirket af Vinen lod han de Guldkar og Sølvkar hente, som hans Fader Nebukadnezar havde ført bort fra Helligdommen i Jerusalem, for at Kongen og hans Stormænd, hans Hustruer og Medhustruer kunde drikke af dem.
-Dan 5:3 Man hentede da Guld— og Sølvkarrene, som var ført bort fra Helligdommen, Guds Hus i Jerusalem, og Kongen og hans Stormænd, hans Hustruer og Medhustruer drak af dem;
+Dan 5:3 Man hentede da Guld- og Sølvkarrene, som var ført bort fra Helligdommen, Guds Hus i Jerusalem, og Kongen og hans Stormænd, hans Hustruer og Medhustruer drak af dem;
 Dan 5:4 og medens de drak Vin, priste de deres Guder af Guld, Sølv, Kobber, Jern, Træ og Sten.
 Dan 5:5 Men i samme Stund viste der sig Fingre af en Menneskehaand, som skrev paa Væggens Kalk i Kongens Palads over for Lysestagen, og Kongen saa Haanden, som skrev.
 Dan 5:6 Da skiftede Kongen Farve, hans Tanker forfærdede ham, hans Hofters Ledemod slappedes, og hans Knæ slog imod hinanden.
@@ -22143,7 +22143,7 @@ Dan 11:39 I de faste Borge lægger han den fremmede Guds Folk; dem, der vedkender
 Dan 11:40 Men ved Endens Tid skal Sydens Konge prøve Kræfter med ham, og Nordens Konge stormer imod ham med Vogne, Ryttere og Skibe i Mængde og falder ind i Landene, oversvømmer og overskyller dem.
 Dan 11:41 Han falder ind i det herlige Land, og Titusinder falder; men følgende skal reddes af hans Haand: Edom, Moab og en Levning Ammoniter.
 Dan 11:42 Han udrækker sin Haand mod Landene, og Ægypten undslipper ikke.
-Dan 11:43 Han bliver Herre over Guld— og Sølvskattene og alle Ægyptens Klenodier; der er Libyere og Ætiopere i hans Følge.
+Dan 11:43 Han bliver Herre over Guld- og Sølvskattene og alle Ægyptens Klenodier; der er Libyere og Ætiopere i hans Følge.
 Dan 11:44 Men Rygter fra Øst og Nord forfærder ham, og han drager bort i stor Harme for at tilintetgøre mange og lægge Band paa dem.
 Dan 11:45 Han opslaar sine Paladstelte mellem Havet og det hellige, herlige Bjerg. Men han gaar sin Bane i Møde, og ingen kommer ham til Hjælp.
 Dan 12:1 Til den Tid skal Mikael staa frem, den store Fyrste, som værner dit Folks Sønner, og en Trængselstid kommer, som hidtil ikke har haft sin Mage, saa længe der var Folkeslag til. Men paa den Tid skal dit Folk frelses, alle, der er optegnet i Bogen.
@@ -22367,7 +22367,7 @@ Joe 1:8 Klag som sørgeklædt Jomfru over sin Ungdoms Brudgom!
 Joe 1:9 Afgrødeoffer og Drikoffer gik tabt for HERRENS Hus; Præsterne, HERRENS Tjenere sørger.
 Joe 1:10 Marken er ødelagt, Jorden sørger; thi Kornet er ødelagt, Mosten slog fejl og Olien hentørres.
 Joe 1:11 Bønder skuffes og Vingaardsmænd jamrer baade over Hveden og Byggen; thi Markens Høst gik tabt;
-Joe 1:12 fejl slog Vinstokken, Figentræet tørres; Granatæble-, Palme— og Æbletræ, hvert Markens Træ tørres hen. Ja, med Skam veg Glæde fra Menneskens Børn.
+Joe 1:12 fejl slog Vinstokken, Figentræet tørres; Granatæble-, Palme- og Æbletræ, hvert Markens Træ tørres hen. Ja, med Skam veg Glæde fra Menneskens Børn.
 Joe 1:13 Sørg, I Præster, i Sæk, I Alterets Tjenere, jamrer! Gaa ind og bær Sæk i Nat, I, som tjener min Gud! Thi Afgrødeoffer og Drikoffer unddrages eders Guds Hus.
 Joe 1:14 Helliger en Faste, udraab festlig Samling, I Ældste, kald alle, som bor i Landet, sammen til HERREN eders Guds Hus og raab saa til HERREN!
 Joe 1:15 Ak, hvilken Dag! Thi nær er HERRENS Dag, den kommer som Vold fra den Vældige.
@@ -22474,7 +22474,7 @@ Amo 3:11 Derfor, saa siger den Herre HERREN: Fjender skal fare gennem Landet, di
 Amo 3:12 Saa siger HERREN: Som en Hyrde redder af Løvens Gab to Skinneben eller en Ørelap, saaledes skal Israels Børn, som bor i Samaria, reddes med Lejets Bolster og Bænkens Hynde.
 Amo 3:13 Hør og vidn imod Jakobs Hus, lyder det fra den Herre HERREN, Hærskarers Gud:
 Amo 3:14 Den Dag jeg hjemsøger Israels Overtrædelser, hjemsøger jeg Betels Altre; Alterets Horn skal afhugges, styrte til Jorden.
-Amo 3:15 Baade Vinter— og Sommerhus knuser jeg da; Elfenbenshusene ødes, de mange Huse gaar tabt, saa lyder det fra HERREN.
+Amo 3:15 Baade Vinter- og Sommerhus knuser jeg da; Elfenbenshusene ødes, de mange Huse gaar tabt, saa lyder det fra HERREN.
 Amo 4:1 Hør dette Ord, I basankøer, I, som bor paa Samarias Bjerg og kuer de ringe, knuser de fattige og byder eders Herrer: »Giv hid, at vi kan drikke!«
 Amo 4:2 Den Herre HERREN svor ved sin Hellighed: Se, over eder skal Dage komme, da I drages op med Hager, de sidste af jer med Kroge,
 Amo 4:3 og slæbes gennem Murbrud een for een og slænges paa Mødding, lyder det fra HERREN.
@@ -23081,7 +23081,7 @@ Zec 9:14 Over dem viser sig HERREN, hans Pil farer ud som et Lyn. Den Herre HERR
 Zec 9:15 dem værner Hærskarers HERRE. De opæder, nedtramper Slyngekasterne, drikker deres Blod som Vin og fyldes som Offerskaalen, som Alterets Hjørner.
 Zec 9:16 HERREN deres Gud skal paa denne Dag frelse dem som sit Folks Hjord; thi de er Kronesten, der funkler over hans Land.
 Zec 9:17 Hvor det er dejligt, hvor skønt! Thi Korn giver blomstrende Ungersvende, Most giver blomstrende Møer.
-Zec 10:1 HERREN skal I bede om Regn ved Tidlig— og Sildigregnstide; HERREN skaber Uvejr; Regnskyl giver han dem, hver Mand Urter paa Marken.
+Zec 10:1 HERREN skal I bede om Regn ved Tidlig- og Sildigregnstide; HERREN skaber Uvejr; Regnskyl giver han dem, hver Mand Urter paa Marken.
 Zec 10:2 Men Husgudens Tale er Svig, Sandsigeres Syner er Blændværk; de kommer med tomme Drømme, hul er Trøsten, de giver; derfor vandrer de om som en Hjord, lider Nød, thi de har ingen Hyrde.
 Zec 10:3 Mod Hyrderne blusser min Vrede, Bukkene vil jeg hjemsøge; thi Hærskarers HERRE ser til sin Hjord. Han ser til Judas Hus; han gør dem til en Ganger, sin stolte Ganger i Strid.
 Zec 10:4 Fra ham kommer Hjørne og Teltpæl, fra ham kommer Krigens Bue, fra ham kommer hver en Hersker.
