@@ -33,12 +33,6 @@ cleaning it up.  Ulrik then OSIS-ified it, and put it on Github in
 - Project Runeberg did some formatting and cleanup.
 - Ulrik Sandborg-Petersen did some reformatting and cleanup.
 
-
-Send corrections and comments to ulrikp-at-scripturesys-dot-com
-
-Or send Ulrik a pull request via Github.
-
-
 ## Status?
 
 - Text complete and vigorously proofread.
@@ -48,6 +42,11 @@ Or send Ulrik a pull request via Github.
 ## Maintenance?
 
 Yes.  Feel free to send suggestions.
+
+Send corrections and comments to ulrikp-at-scripturesys-dot-com
+
+Or send Ulrik a pull request via Github.
+
 
 
 Praise the LORD.
