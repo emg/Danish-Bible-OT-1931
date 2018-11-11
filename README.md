@@ -15,7 +15,7 @@ the 1931 Danish Old Testament is in the Public Domain.  Feel free to
 inquire.
 
 
-##  Provenance?
+## Provenance?
 
 Somewhere in the 1980'ies, a Danish couple scanned and OCR'ed a 1933
 copy of the Danish Old Testament from 1931.  Søren Horn, one of the
